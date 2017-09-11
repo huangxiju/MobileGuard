@@ -9,8 +9,9 @@ public class SplashActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash);
-        if(1==1){
-            System.out.println("hi");
+
+        if (1==0){
+            System.out.println("ruironghaishuai");
         }
     }
 }
